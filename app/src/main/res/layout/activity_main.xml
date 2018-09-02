@@ -10,11 +10,6 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="126dp"
-        android:layout_marginStart="126dp"
-        android:layout_marginTop="141dp"
-        android:text="Button"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:text="Button" />
 
 </android.support.constraint.ConstraintLayout>
